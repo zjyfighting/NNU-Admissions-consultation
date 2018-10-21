@@ -1,0 +1,23 @@
+<!--index.wxml-->
+     <!-- 分割线 -->
+<text class="word">南京师范大学喜迎2018级新同学</text>
+<navigator url='/pages/index/news1/news1'><image  class="pic" src="../../images/xyxs.jpg" ></image></navigator>
+<view class="divLine"></view>
+
+<text class="word">校领导视察新学期第一课</text>
+<navigator url='/pages/index/news2/news2'><image  class="pic" src="../../images/dyk.jpg" ></image></navigator>
+<view class="divLine"></view>
+
+<text class="word">教师节前夕陈国祥校长</text>
+<text class="word">看望我校名师培养项目学员</text>
+<image  class="pic" src="../../images/mspy.jpg" ></image>
+<view class="divLine"></view>
+
+<text class="word">侯晶晶老师获评</text>
+<text class="word">"感动江苏-2018最美高校教师"称号</text>
+<navigator url='/pages/index/news3/news3'><image  class="pic" src="../../images/zmjs.jpg" ></image></navigator>
+<view class="divLine"></view>
+
+<text class="word">陈仲明教授向学校捐赠《厚德载物》碑石</text>
+<image class="pic" src="../../images/czm.jpg" ></image>
+<view class="divLine"></view>

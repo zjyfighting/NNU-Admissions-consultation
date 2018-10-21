@@ -1,0 +1,5 @@
+/* pages/index/news2/news2.wxss */
+.contain
+{
+    background: rgba(240, 202, 99, 0.308);
+}
